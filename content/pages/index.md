@@ -139,7 +139,7 @@ sections:
               padding:
                 - pr-5
                 - pl-5
-                - pt-6
+                - pt-5
                 - pb-6
           type: ImageBlock
         colors: bg-light-fg-dark
