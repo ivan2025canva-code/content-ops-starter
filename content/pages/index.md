@@ -138,6 +138,7 @@ sections:
             self:
               borderRadius: large
               borderWidth: 4
+              borderStyle: solid
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
