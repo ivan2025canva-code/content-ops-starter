@@ -13,7 +13,7 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: "Click para\_ ver la Película Conjunto"
         altText: ''
         url: 'https://screenapp.io/app/#/shared/SUW733cuIF'
         showIcon: false
