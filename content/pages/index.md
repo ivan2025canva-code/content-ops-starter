@@ -16,7 +16,7 @@ sections:
       - label: Get started
         altText: ''
         url: >-
-          /https://www.transfernow.net/es/cld?utm_source=20250831wEvbwSO3&gridPreview=1&previewFile=Whk5hK
+          https://www.transfernow.net/es/cld?utm_source=20250831wEvbwSO3&gridPreview=1&previewFile=Whk5hK
         showIcon: false
         icon: arrowRight
         iconPosition: right
