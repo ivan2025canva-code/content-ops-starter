@@ -103,7 +103,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Versailles_Château_de_Versailles_Appartements_d'Hiver_22.jpg
       altText: Fun feature preview
     badge:
       type: Badge
