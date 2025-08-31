@@ -15,8 +15,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: >-
-          https://www.transfernow.net/es/cld?utm_source=20250831wEvbwSO3&gridPreview=1&previewFile=Whk5hK
+        url: 'https://screenapp.io/app/#/shared/SUW733cuIF'
         showIcon: false
         icon: arrowRight
         iconPosition: right
