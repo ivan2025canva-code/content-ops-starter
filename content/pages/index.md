@@ -140,7 +140,7 @@ sections:
                 - pr-5
                 - pl-5
                 - pt-28
-                - pb-5
+                - pb-28
               margin:
                 - mt-5
                 - mb-5
