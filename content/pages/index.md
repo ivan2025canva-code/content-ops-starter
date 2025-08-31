@@ -8,10 +8,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ¨El Paraíso mientras Dios ve¨
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      No es que el significado de la Vida sea cursi, sino que a veces lo
+      divertido de vivir es tener retos que hace ver lo imposible en posible.
+      Estos ratos donde estamos juntos, compartimos, sobre todo nuestros
+      momentos intimos es un placer *como si fuera el paraíso, un jardín sin
+      fin.*  Disfrutemos de estos momentos, no te quedes atrás o obviando que la
+      distancia frena a las personas, porque lo único que frena en las personas,
+      son sus intenciones. 
+
+
+      *   Iván Martínez para Manuel Otamendi. 
+
     actions:
       - label: "Click para\_ ver la Película Conjunto"
         altText: ''
