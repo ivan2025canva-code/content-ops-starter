@@ -144,6 +144,7 @@ sections:
               margin:
                 - mt-5
                 - mb-5
+                - ml-5
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
