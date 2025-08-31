@@ -138,6 +138,7 @@ sections:
               borderRadius: x-large
               padding:
                 - pr-32
+                - pl-28
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
