@@ -137,7 +137,7 @@ sections:
             self:
               borderRadius: x-large
               padding:
-                - pr-32
+                - pr-6
                 - pl-28
                 - pt-6
                 - pb-6
