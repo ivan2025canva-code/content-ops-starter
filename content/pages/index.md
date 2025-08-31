@@ -10,15 +10,17 @@ sections:
     subtitle: ¨El Paraíso mientras Dios ve¨
     text: >+
       No es que el significado de la Vida sea cursi, sino que a veces lo
-      divertido de vivir es tener retos que hace ver lo imposible en posible.
+      divertido de vivir es tener retos que hace ver lo imposible en posible. 
+
+
       Estos ratos donde estamos juntos, compartimos, sobre todo nuestros
       momentos intimos es un placer *como si fuera el paraíso, un jardín sin
       fin.*  Disfrutemos de estos momentos, no te quedes atrás o obviando que la
       distancia frena a las personas, porque lo único que frena en las personas,
-      son sus intenciones. 
+      son sus intenciones.
 
 
-      *   Iván Martínez para Manuel Otamendi. 
+      *   Iván Martínez para Manuel Otamendi.
 
     actions:
       - label: "Click para\_ ver la Película Conjunto"
