@@ -136,7 +136,7 @@ sections:
           elementId: ''
           styles:
             self:
-              borderRadius: medium
+              borderRadius: large
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
