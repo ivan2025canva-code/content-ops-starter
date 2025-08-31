@@ -28,7 +28,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Otamendi & Martínez
       color: text-primary
       type: Badge
     elementId: ''
