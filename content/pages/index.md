@@ -138,7 +138,7 @@ sections:
               borderRadius: x-large
               padding:
                 - pr-6
-                - pl-28
+                - pl-5
                 - pt-6
                 - pb-6
           type: ImageBlock
