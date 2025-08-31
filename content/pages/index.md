@@ -55,7 +55,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: '¿Qué veremos Hoy? :'
+      text: '¿Qué veremos Hoy? : Como entrenar a tu Dragón - 2025'
       color: text-dark
       styles:
         self:
