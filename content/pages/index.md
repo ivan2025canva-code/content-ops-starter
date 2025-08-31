@@ -125,39 +125,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/Versailles_Château_de_Versailles_Appartements_d'Hiver_22.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-              padding:
-                - pr-28
-                - pl-28
-                - pt-28
-                - pb-28
-              margin:
-                - mt-28
-                - mb-28
-                - ml-28
-                - mr-28
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
       - title: ''
         tagline: ''
         subtitle: ''
