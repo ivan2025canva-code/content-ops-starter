@@ -140,7 +140,7 @@ sections:
                 - pr-5
                 - pl-5
                 - pt-5
-                - pb-6
+                - pb-5
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
