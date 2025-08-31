@@ -7,7 +7,7 @@ sections:
       text: CINEMA ROYALE
       color: text-dark
       type: TitleBlock
-    subtitle: ¨El Paraíso mientras Dios ve¨
+    subtitle: 'Lema de Hoy : ¨El Paraíso mientras Dios ve¨'
     text: >+
       No es que el significado de la Vida sea cursi, sino que a veces lo
       divertido de vivir es tener retos que hace ver lo imposible en posible. 
