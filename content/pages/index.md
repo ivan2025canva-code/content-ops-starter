@@ -142,10 +142,10 @@ sections:
                 - pt-28
                 - pb-28
               margin:
-                - mt-5
+                - mt-28
                 - mb-5
                 - ml-5
-                - mr-5
+                - mr-28
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
