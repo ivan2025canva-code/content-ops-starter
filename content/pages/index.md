@@ -143,7 +143,7 @@ sections:
                 - pb-28
               margin:
                 - mt-28
-                - mb-5
+                - mb-28
                 - ml-5
                 - mr-28
           type: ImageBlock
