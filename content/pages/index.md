@@ -150,7 +150,7 @@ sections:
         type: FeaturedItem
       - title: Feature Item Three
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/i.webp
