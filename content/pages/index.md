@@ -128,7 +128,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/Versailles_Château_de_Versailles_Appartements_d'Hiver_22.jpg
