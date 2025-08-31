@@ -11,11 +11,10 @@ sections:
         self:
           textAlign: left
     subtitle: 'Idea de mi chico mexicano, te quiero <<3'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      ![](/images/como-entrenar-a-tu-dragon-2025-critica-opiniones-min.jpg)
+
+      DISFRUTA , ATENCIÓN  ESTA PROHIBIDO ESTAR HORNY VIENDO LA PELI !
     actions: []
     colors: bg-light-fg-dark
     styles:
