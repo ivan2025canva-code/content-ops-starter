@@ -138,7 +138,7 @@ sections:
               borderRadius: x-large
               padding:
                 - pr-28
-                - pl-5
+                - pl-28
                 - pt-28
                 - pb-28
               margin:
