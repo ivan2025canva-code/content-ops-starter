@@ -140,6 +140,7 @@ sections:
                 - pr-32
                 - pl-28
                 - pt-24
+                - pb-32
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
