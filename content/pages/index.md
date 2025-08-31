@@ -131,7 +131,7 @@ sections:
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Versailles_Château_de_Versailles_Appartements_d'Hiver_22.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
